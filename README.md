@@ -11,4 +11,5 @@ Take the form of things around the farm!
 1. Move around using <i>W A S D</i>
 2. <i>Left mouse button</i> to take the shape of the last object you passed through
 3. <i>Right mouse button</i> to rotate
-[The game link again :)](https://play.unity.com/mg/other/shapeshifting-in-farm-build-1)
+
+## [The game link again :)](https://play.unity.com/mg/other/shapeshifting-in-farm-build-1)
